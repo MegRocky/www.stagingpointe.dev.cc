@@ -1,0 +1,135 @@
+# Translation of Plugins - Widget for Social Page Feeds - Development (trunk) in English (UK)
+# This file is distributed under the same license as the Plugins - Widget for Social Page Feeds - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-06-18 13:19:09+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha\n"
+"Language: en_GB\n"
+"Project-Id-Version: Plugins - Widget for Social Page Feeds - Development (trunk)\n"
+
+#: includes/add-review.php:131
+msgid "Facebook Page Feeds Widget for WordPress"
+msgstr "Facebook Page Feeds Widget for WordPress"
+
+#: includes/add-review.php:103
+msgid "No thanks / I already have"
+msgstr "No thanks/I already have"
+
+#: includes/add-review.php:101
+msgid "Leave a Review"
+msgstr "Leave a Review"
+
+#: includes/add-review.php:97
+msgid "You have been using <strong><a href=\"https://wordpress.org/plugins/facebook-pagelike-widget/\" target=\"_blank\">%1$s</a></strong> for sometime now! Could you please do me a favor and give it a 5-star rating on WordPress to help us spread the word and encourage my hardwork?"
+msgstr "You have been using <strong><a href=\"https://en-gb.wordpress.org/plugins/facebook-pagelike-widget/\" target=\"_blank\">%1$s</a></strong> for sometime now! Could you please do me a favour and give it a five star rating on WordPress to help us spread the word and encourage my hard work?"
+
+#: includes/add-review.php:95
+msgid "Are you enjoying using Facebook Page Feeds Widget?"
+msgstr "Are you enjoying using Facebook Page Feeds Widget?"
+
+#: includes/add-review.php:92
+msgid "Facebook Page Feeds WordPress Plugin"
+msgstr "Facebook Page Feeds WordPress Plugin"
+
+#: includes/add-review.php:61
+msgid "%s minutes"
+msgstr "%s minutes"
+
+#: includes/add-review.php:57
+msgid "%s days"
+msgstr "%s days"
+
+#: includes/add-review.php:53
+msgid "a week"
+msgstr "a week"
+
+#: includes/add-review.php:49
+msgid "a year"
+msgid_plural "%s years"
+msgstr[0] "a year"
+msgstr[1] "%s years"
+
+#. Plugin Name of the plugin
+msgid "Widget for Social Page Feeds"
+msgstr "Widget for Social Page Feeds"
+
+#: fb_class.php:119
+msgid "Tabs:"
+msgstr "Tabs:"
+
+#: fb_class.php:147
+msgid "Show Friend's Faces"
+msgstr "Show Friend's Faces"
+
+#: fb_class.php:143
+msgid "Hide Cover Photo"
+msgstr "Hide Cover Photo"
+
+#. Author of the plugin
+msgid "Milap Patel"
+msgstr "Milap Patel"
+
+#. Description of the plugin
+msgid "This widget adds a Simple Facebook Page Like Widget into your WordPress website sidebar within few minutes."
+msgstr "This widget adds a Simple Facebook Page Like Widget into your WordPress website sidebar within few minutes."
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://patelmilap.wordpress.com/"
+msgstr "https://patelmilap.wordpress.com/"
+
+#: fb_class.php:198
+msgid "Custom Css:"
+msgstr "Custom CSS:"
+
+#: fb_class.php:174
+msgid "Language:"
+msgstr "Language:"
+
+#: fb_class.php:162
+msgid "Set Height:"
+msgstr "Set Height:"
+
+#: fb_class.php:158
+msgid "Set Width:"
+msgstr "Set Width:"
+
+#: fb_class.php:155
+msgid "Adapt To Plugin Container Width"
+msgstr "Adapt To Plugin Container Width"
+
+#: fb_class.php:151
+msgid "Show Small Header"
+msgstr "Show Small Header"
+
+#: fb_class.php:139
+msgid "Show posts from the Page timeline"
+msgstr "Show posts from the Page timeline"
+
+#: fb_class.php:113
+msgid "Valid Facebook Pages"
+msgstr "Valid Facebook Pages"
+
+#: fb_class.php:111
+msgid "Works with only"
+msgstr "Works with only"
+
+#: fb_class.php:108
+msgid "Facebook Page Url:"
+msgstr "Facebook Page Url:"
+
+#: fb_class.php:104
+msgid "Facebook Application Id:"
+msgstr "Facebook Application Id:"
+
+#: fb_class.php:100
+msgid "Title:"
+msgstr "Title:"
+
+#: fb_class.php:10
+msgid "Facebook Page Like Widget"
+msgstr "Facebook Page Like Widget"
