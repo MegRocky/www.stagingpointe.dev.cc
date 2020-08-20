@@ -25,11 +25,11 @@
 	<a class="skip-link screen-reader-text" href="#primary"><?php esc_html_e( 'Skip to content', 'pointe' ); ?></a>
 	<header id="masthead" class="site-header">
 		
-		<nav class="navbar navbar-expand-md navbar-light nav-fill">
+		<nav class="navbar navbar-expand-md navbar-light nav-fill navbar-style">
 			<a href="#"><?php echo get_custom_logo();?></a>
-   	 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>		
+   	 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#bs4navbar" aria-controls="bs4navbar" aria-expanded="false" aria-label="Toggle navigation">
+     <span class="navbar-toggler-icon"></span>
+   </button>		
 	   <?php
 	  wp_nav_menu([
 	  'menu'            => 'Main',
